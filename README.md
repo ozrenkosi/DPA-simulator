@@ -1,7 +1,7 @@
 DPA simulator
 =============
 
-Solution for the third lab at "Introduction to Theoretical Computer Science" course - Deterministic pushdown automaton which
+Solution for the third lab at "Introduction to Theoretical Computer Science" course - Deterministic pushdown automata which
 accepts input sequences with acceptable state.
 
 Example
